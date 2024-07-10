@@ -1,2 +1,2 @@
-# sudhanshukb.github.io
-Private repository for personal website
+# Sudhanshu's personal website cum Digital resume
+Repository for personal website
